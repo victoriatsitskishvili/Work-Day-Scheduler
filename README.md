@@ -26,7 +26,7 @@ JS:
 CSS:
 1. Adding the class selector - .alert and .toshow and necessarily style ( using display for the display behavior)
 
-![Screenshot of the app] ()
+![Screenshot of the app] (https://github.com/victoriatsitskishvili/Work-Day-Scheduler/blob/326cc2d8d087a53991430eb77e224ba69d9f9023/assets/Images/SS%20of%20the%20app.png)
 
 
-[Link to Git] (https://victoriatsitskishvili.github.io/Code-Quiz/)
+[Link to Git] (https://victoriatsitskishvili.github.io/Work-Day-Scheduler/)
