@@ -25,3 +25,8 @@ JS:
 
 CSS:
 1. Adding the class selector - .alert and .toshow and necessarily style ( using display for the display behavior)
+
+![Screenshot of the app] ()
+
+
+[Link to Git] (https://victoriatsitskishvili.github.io/Code-Quiz/)
