@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 HTML:
 1. Creating the time blocks:
-a) creating the div ids for all - from 9 am till 5 pm; creating a separate class for styling - "time"
+a) creating the div ids for all - from 9 am till 5 pm; creating a separate class for styling - "time" and "row"
 b) creating another div class hour : "col-md-1" - column, medium screen(for desktops), spans 1 of 12 columns
 c)creating text area class details : "col-md-10" - column, medium screen(for desktops), spans 10 of 12 columns
 d) creating a button class btn saveBtn (according to style.css) : "col-md-1"- column, medium screen(for desktops), spans 1 of 12 columns
@@ -19,7 +19,9 @@ JS:
 8. Creating a new variable - current time 
 9. Creating a loop
 10. Creating an if/else function to see if we passed the time
-11. using an interval variable to see if the current time needs to be updated
+11. Using an interval variable to see if the current time needs to be updated
 12. Loading the save data from the storage 
 13. Display the current date on the page
 
+CSS:
+1. Adding the class selector - .alert and .toshow and necessarily style ( using display for the display behavior)
